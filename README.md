@@ -30,9 +30,9 @@ Corrigir o código da aplicação e fazer com que os testes voltem a passar.
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterI-Desafio03.git
+$ git clone https://github.com/pvsmda/desafio-ignite-NodeJS-corrigindo-codigo.git
 # Entre na pasta
-$ cd IgniteNode-ChapterI-Desafio03
+$ cd desafio-ignite-NodeJS-corrigindo-codigo
 # Instale as dependências
 $ yarn ou yarn install
 # Execute a aplicação em modo de desenvolvimento
